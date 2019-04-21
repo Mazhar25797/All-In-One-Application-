@@ -17,7 +17,7 @@ This application made in C Language
 Information about Group Members:
 *********************************
 1. Mazhar ALi Memon (2k17/CSE/52)
-2. Asad Malik       (2k17/CSE/28)
+2. Asad Malik (2k17/CSE/28)
 3. Sajjad Ali Sarwary (2k17/CSE/92)
-4. Zafar Sarke     (2k17/CSE/71)
-5. Liaquat Lund    (2k17/CSE/48)
+4. Zafar Sarke (2k17/CSE/71)
+5. Liaquat Lund (2k17/CSE/48)
